@@ -1,0 +1,126 @@
+/* Visual */
+.description {
+	font-family: monospace;
+	font-size: 30px;
+	color: black;
+	text-transform: uppercase;
+}
+
+.flexColumn {
+	display: flex;
+	flex-direction: column;
+	gap: 1em;
+}
+
+.flexRow {
+	display: flex;
+	gap: 1em;
+}
+
+/* Element som CSS Selekter */
+
+h1 {
+	color: red;
+}
+
+h2 {
+	color: green;
+}
+
+h3 {
+	color: blue;
+}
+
+h4 {
+	color: yellow;
+}
+
+h5 {
+	color: purple;
+}
+
+h6 {
+	color: orange;
+}
+
+p {
+	color: limegreen;
+}
+
+img {
+	max-width: 400px;
+}
+
+/* Klassenavn som CSS Selekter */
+
+.text {
+	background-color: lightblue;
+}
+
+.h1_one {
+	color: greenyellow;
+}
+
+.h2_one {
+	color: chocolate;
+}
+
+.h3_one {
+	color: plum;
+}
+
+.h4_one {
+	color: darkkhaki;
+}
+
+.h5_one {
+	color: lightskyblue;
+}
+
+.h6_one {
+	color: aquamarine;
+}
+
+.p_one {
+	color: darkred;
+}
+
+.h1_two {
+	color: darkseagreen;
+}
+
+.h2_two {
+	color: teal;
+}
+
+.h3_two {
+	color: slateblue;
+}
+
+.h4_two {
+	color: darkgoldenrod;
+}
+
+.h5_two {
+	color: deeppink;
+}
+
+.h6_two {
+	color: dodgerblue;
+}
+
+.p_two {
+	color: lightslategray;
+}
+
+.photo1 {
+	max-width: 400px;
+}
+
+.photo2 {
+	max-width: 300px;
+}
+
+.photo3 {
+	max-width: 500px;
+}
